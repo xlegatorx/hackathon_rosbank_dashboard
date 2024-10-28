@@ -6,4 +6,5 @@
 Дашборд содержит 2 страницы - "Чарты" (со всеми диаграммами, индикаторами, слайдерами) и "Документация" ( с описанием датасета, дашборда и метрик)
 
 Ссылка на дашборд: https://datalens.yandex.cloud/ntviqkl91ga8a-ocenka-kompetenciy-sotrudnikov-konechnyy-variant-na-25?tab=0g
+
 Команда аналитиков: Андрей Голубев @xlegatorx, Яна Богачева @Bogacheva_Yana
